@@ -1,1 +1,1 @@
-# exercises-css
+Exercises using CSS on HTML files.
